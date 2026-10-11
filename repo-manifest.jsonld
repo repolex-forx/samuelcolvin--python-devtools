@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/python-devtools/commit/5022f1f6f1c55d871b1db208c9c1b2ab0df488fe",
       "git:hexsha": "5022f1f6f1c55d871b1db208c9c1b2ab0df488fe",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:07:08.181070+00:00"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/python-devtools/commit/f98b3aa977e4c749b79c3906c3fbaae158d4aad0",
